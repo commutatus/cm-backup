@@ -1,7 +1,7 @@
 cm-backup v1.x
 ===========
 
-This project is forked from [backup/backup](https://github.com/backup/backup). Due to lack of help availiable we've hosted our own version on ruby-gems and will also maintain it on this repository. [The existing documentation](https://backup.github.io/backup/v4/) is already in a fantastic shape, we'll keep adding to it as needed.
+This project is forked from [backup/backup](https://github.com/backup/backup). Due to lack of help availiable we've hosted our own version on [ruby-gems](https://rubygems.org/gems/cm-backup) and will also maintain it on this repository. [The existing documentation](https://backup.github.io/backup/v4/) is already in a fantastic shape, we'll keep adding to it as needed.
 
 __Description from source__
 
